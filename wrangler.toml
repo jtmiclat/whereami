@@ -1,6 +1,6 @@
 name = "whereami"
 main = "build/worker/shim.mjs"
 compatibility_date = "2023-03-22"
-
+routes = [{ pattern = "whereami.jtmiclat.me", custom_domain = true }]
 [build]
 command = "cargo install -q worker-build && worker-build --release"
