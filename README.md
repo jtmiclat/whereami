@@ -16,4 +16,4 @@ curl https://whereami.jtmiclat.me/coordinates
 
 ## Why this exists
 
-I wanted a simple way of testing what country I set my vpn through using a terminal
+I wanted a simple way of testing what country I set my vpn to using a terminal
